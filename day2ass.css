@@ -1,0 +1,29 @@
+body {
+    background-color: #b1e4d2;
+}
+
+.container {
+    background-color: #f5d6e8;
+    color: #dc414c;
+    padding: 100px;
+}
+
+h1, h2 {
+    font-family: cursive;
+}
+
+section {
+    border: 5px solid #555555;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+.skills li {
+    color: #0f0101;
+    transition: color 0.3s;
+}
+
+.skills li:hover {
+    color: #10b4fa;
+}
